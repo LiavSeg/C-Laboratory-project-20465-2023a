@@ -1,0 +1,43 @@
+	.data 1,2,3,4,5+6,8
+	.data 1,2,3,,,3,4,5,2,2
+	.data 1,2,3,-54,-x,3,4,5,2,2
+	.data 1,2,3,3,---3,3,4,5,2,2
+	.data 1,2,3,+45,+-32,3,4,5,2,2
+	.data.123.123.123.13
+	.data 13,12,
+	.data x,12,12,134,12233,2
+	.data .data 12,12,34,15,7,89
+	.data t12,4,1    ,1231,
+	.data ABC,AED,AFE
+	
+	.string 234"234" 234
+	.string "This ""string is valid?:"
+	string .string 
+	.StrinG "Hello there"  heyImHere
+	.mov r3,Length
+	stop r3,length
+	bne r3,32,123
+	dec mov
+	DC (12,r3)
+	inc r3,r12
+	.string prn
+	.string stop
+	.string jump
+	.string bne
+	.string prn
+	.string dec
+	.string mov
+	.string sub
+	.string prn
+	.string jsr l1
+	.string "mov,r3,length
+	1Mylength: jmp K
+	my length: jmp K12
+	VERYLONGLABELTHATISNTLEAGLITHINKIPASSED30: stop
+	mov r3,%length
+	add r131,-5
+	lea mov,r12
+	cmp .string,.data
+	sub r1,#3
+	add r0,#-5
+	
