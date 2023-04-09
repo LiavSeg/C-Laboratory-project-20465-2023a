@@ -62,7 +62,7 @@ command_data *is_command(char *line,int *error){
 int isopcode(char *label,int k){
 	int i;
 
-	char *opcodes[] = 			    			   	{"mov","cmp","add","sub","not","clr","lea","inc","dec","jmp","bne","red","prn","jsr","rts","stop"};
+	char *opcodes[] = {"mov","cmp","add","sub","not","clr","lea","inc","dec","jmp","bne","red","prn","jsr","rts","stop"};
 
 	if(!label)
 		return -1;
