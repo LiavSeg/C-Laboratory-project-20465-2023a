@@ -8,4 +8,4 @@
 * It is designed to work on an **imaginary** computer with 8 general registers, each register having a size of 14 bits.
 
 * #### Grade: 94 
-***[@LiavSeg](https://github.com/LiavSeg)**
+*** [@LiavSeg](https://github.com/LiavSeg)**
