@@ -1,4 +1,3 @@
-/*תנו בראש סמסטר 2024 ב' חחחחחחחחח*/
 #include "assembler.h"
 /*Main function of the assembler project*/
 
