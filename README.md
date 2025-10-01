@@ -1,4 +1,5 @@
-# C Laboratory Project – 20465 (2023a)
+# C Laboratory Project – 20465 (2023a) ![](https://komarev.com/ghpvc/?username=LiavSeg&label=Repo%20ViewsS&style=flat-square&color=blue)
+
 
 Assembler and macro preprocessor written in C as part of the Open University course 20465 – Systems Programming Lab.
 Implements a two-pass assembler for a hypothetical machine with 14-bit instructions and a limited instruction set, including full support for macros, symbol resolution, and error diagnostics.
