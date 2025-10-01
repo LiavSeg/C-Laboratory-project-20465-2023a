@@ -1,4 +1,5 @@
-# C Laboratory Project – 20465 (2023a) ![](https://komarev.com/ghpvc/?username=LiavSeg&label=Repo%20ViewsS&style=flat-square&color=blue)
+# C Laboratory Project – 20465 (2023a) ![Views](https://visitor-badge.laobi.icu/badge?page_id=LiavSeg.C-Laboratory-project-20465-2023a)
+
 
 
 Assembler and macro preprocessor written in C as part of the Open University course 20465 – Systems Programming Lab.
