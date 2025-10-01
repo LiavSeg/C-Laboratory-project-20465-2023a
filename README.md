@@ -9,3 +9,4 @@
 
 * #### Grade: 94 
 **[@LiavSeg](https://github.com/LiavSeg)**
+![Hits](https://hits.sh/github.com/LiavSeg/Encrypted-files-transfer-System.svg?style=flat-square)
